@@ -1,0 +1,131 @@
+.wrapper{
+	width: 980px;
+	margin: 0 auto;
+	font-family: arial;
+	padding-left: 0px;
+}
+
+.tieude{
+	width: 980px;
+	height: 35px;
+	padding-top: 12px;
+}
+
+.tieude h2{
+	float: left;
+	background-image: url(../images/icon.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	padding-right: 25px;
+	font-weight: lighter;
+	color: #0462A2;
+}
+
+.tieude .muccon{
+	float: right;
+}
+
+.tieude a{
+	padding-left: 8px;
+	font-size: 13px;
+}
+.wrapper .bocuc{
+	border-top: 3px solid #0E5E99;
+	margin-bottom: 30px;
+	width: 980px;
+}
+
+.wrapper .noidung{
+	width: 980px;
+	height: 290px;
+	padding: 0px;
+	position: relative;
+	border-top: 1px solid #C6C6C6;
+}
+.wrapper .noidung .noidung1{
+	width: 340px;
+	height: 290px;
+	float: left;
+	margin-right: 25px;
+	padding-top: 15px;
+	position: relative;
+}
+
+.noidung1 span{
+	position: absolute;
+	left: 0px;
+	bottom: 58px;
+	background-color: black;
+	padding: 6px;
+	opacity: 0.8;
+}
+
+.noidung1 a{
+	color: white;
+}
+
+.wrapper .noidung .noidung1 img{
+	width: 100%;
+	height: 232px;
+}
+.wrapper .noidung .noidung1 p{
+	width: 100%;
+	font-size: 13px;
+	color: #815594;
+	text-align: justify;
+}
+.wrapper .noidung .noidung2 {
+	width: 295px;
+	height: 290px;
+	padding-left: 0px;
+	float: left;
+	margin-right: 40px;
+	padding-top: 15px;
+}
+.wrapper .noidung .noidung2 .nho{
+	width: 100%;
+	height: 134px;
+	border-bottom: 1px dotted #DBDBDB;
+}
+.wrapper .noidung .noidung2 .nho a{
+	width: 100%;
+	color: black;
+	font-weight: bold;
+	font-size: 14px;
+	text-align: justify;
+}
+.wrapper .noidung .noidung2 .nho img{
+	width: 102px;
+	height: 77px;
+	padding-top: 15px;
+	float: left;
+}
+.wrapper .noidung .noidung2 .nho p{
+	width: 172px;
+	font-size: 13px;
+	padding: 15px 10px;
+	float: right;
+	color: #8A55A3;
+	text-align: justify;
+}
+.wrapper .noidung .noidung3 {
+	width: 280px;
+	height: 290px;
+	padding-left: 0px;
+	float: left;
+}
+.wrapper .noidung .noidung3 li{
+	width: 100%;
+	height: 44px;
+	padding-top: 15px;
+	border-bottom: 1px dotted #DBDBDB;
+}
+.wrapper .noidung .noidung3 li a{
+	color: black;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.clr{
+	clear: both;
+}
